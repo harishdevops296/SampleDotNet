@@ -1,0 +1,4 @@
+[submodule "ThisIsSample"]
+	path = ThisIsSample
+	url = https://github.com/navya476/ThisIsSample.git
+	branch = master
